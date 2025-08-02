@@ -4,7 +4,7 @@
 
 on: push
 
-name: OpenOCD Snapshot-Build
+name: OpenOCD Snapshot
 
 jobs:
   package:
